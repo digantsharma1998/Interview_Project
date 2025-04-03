@@ -1,0 +1,7 @@
+node_modules/
+*.log
+.env
+.next/
+*.css.map
+.DS_STORE
+Thumbs.db
